@@ -15,13 +15,15 @@
 	+ Còn ít nhất 1 người lúc ngày thứ 6.
 	
 - Job ban ngày: Có thể trùng lặp.
-	+ Nông dân (Sản xuất nông sản giữ cho ngôi làng tồn tại trong 6 ngày). Limit 3 người.
+	+ Nông dân (Sản xuất nông sản, có thê trộm rice đổi lấy gold). Limit 3 người.
 	+ Thợ săn (Được chọn giết 1 người nếu người đó không phải sói, thợ săn bị treo cổ. 
-	Nếu là phe của sói, được phép tiếp tục vào 1 ngày sau). Limit 1 người.
-	+ Bác sĩ (Cứu 1 người sống lại, sau đó mất khả năng này). Limit 1 người.
-	+ Thị trưởng (Nếu còn sống phiếu bầu người khác +1, phiếu bầu người khác cho mình -1). Limit 1 người.
-	+ Mọt sách (Nếu 1 dân làng bị giết, tên khở sẽ thay thế job của người đó 
-	vào sáng hôm sau). Limit 1 người. 
+	Có thê trộm rice đổi lấy gold). Limit 1 người.
+	+ Bác sĩ (Cứu 1 người sống lại, sau đó mất khả năng này, 
+	có thê trộm rice đổi lấy gold). Limit 1 người.
+	+ Thị trưởng (Nếu còn sống phiếu bầu người khác +1, phiếu bầu người khác cho mình -1, 
+	có thê trộm rice đổi lấy gold). Limit 1 người.
+	+ Mọt sách/Thủ thư (Nếu 1 dân làng bị giết, tên này sẽ thay thế job của người đó 
+	vào sáng hôm sau, có thê trộm rice đổi lấy gold). Limit 1 người. 
 	...
 
 - Job ban đêm: Không thể trùng lặp.
@@ -58,6 +60,17 @@
 	+ Tạo phòng riêng bằng tiền Gold.
 	+ Mua Custome bằng Gold.
 	+ Xem quảng cáo hoặc thắng game được Gold.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
